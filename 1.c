@@ -4,7 +4,7 @@
 
 int main()
 {
-
+	/*ypu have to write comments nigga*/
 	printf("hello from z");
 	printf("%i" ,  Add(5, 5));
 	return 0 ;
